@@ -5,6 +5,6 @@ n = 5
     
 # Left angle triangle
 for i in range(1, n+1):
-    print(' '*(n-i) +'* '*i)
+    print(' '*(n-i) +'*'*i)
     
     
